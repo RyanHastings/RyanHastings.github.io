@@ -36,7 +36,7 @@
     <description>Now, of course, the fewer features we need the better, both for the aesthetic of parsimony and the pragmatics of needing fewer computing cycles, so the next step is to do some form of feature or model selection.</description>
     <pubDate>Mon, 21 Apr 2025 15:24:18 GMT</pubDate>
   </item><item>
-    <title>Classification Model</title>
+    <title>Classification Model With Numerical Features</title>
     <link>https://quartz.jzhao.xyz/portfolio-1/</link>
     <guid>https://quartz.jzhao.xyz/portfolio-1/</guid>
     <description>The first example I would like to give is the creation of a classification model using numerical regressors.</description>
