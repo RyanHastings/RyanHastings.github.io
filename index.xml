@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Ryan&#039;s Portfolio</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Ryan&#039;s Portfolio</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>My Portfolio</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description> A data scientist is someone who is better at software than a statistician and better at stats than a software engineer.</description>
+    <pubDate>Mon, 21 Apr 2025 15:24:18 GMT</pubDate>
+  </item><item>
+    <title>1. Construction of the Data Set</title>
+    <link>https://quartz.jzhao.xyz/portfolio-1/1-construction</link>
+    <guid>https://quartz.jzhao.xyz/portfolio-1/1-construction</guid>
+    <description> Import Libraries Create dataset Import Libraries As always, we begin by importing necessary functions from various libraries: numpy, pandas, matplotlib, seaborn, scipy, shap, and scikit-learn.</description>
+    <pubDate>Mon, 21 Apr 2025 15:24:18 GMT</pubDate>
+  </item><item>
+    <title>5. Conclusion</title>
+    <link>https://quartz.jzhao.xyz/portfolio-1/conclusion</link>
+    <guid>https://quartz.jzhao.xyz/portfolio-1/conclusion</guid>
+    <description>Here I have walked through the skeleton of the standard process for setting up a machine learning model.</description>
+    <pubDate>Mon, 21 Apr 2025 15:24:18 GMT</pubDate>
+  </item><item>
+    <title>2. Data Exploration</title>
+    <link>https://quartz.jzhao.xyz/portfolio-1/data-exploration</link>
+    <guid>https://quartz.jzhao.xyz/portfolio-1/data-exploration</guid>
+    <description> Initial examination of data Missing Values Distribution of Independent Variables Associations Between Features The Use of the Mutual Information Coefficient Initial examination of data First, I will look at the number of rows (which are by design, so I actually already know), and the distribution o...</description>
+    <pubDate>Mon, 21 Apr 2025 15:24:18 GMT</pubDate>
+  </item><item>
+    <title>4. Feature Selection</title>
+    <link>https://quartz.jzhao.xyz/portfolio-1/feature-selection</link>
+    <guid>https://quartz.jzhao.xyz/portfolio-1/feature-selection</guid>
+    <description>Now, of course, the fewer features we need the better, both for the aesthetic of parsimony and the pragmatics of needing fewer computing cycles, so the next step is to do some form of feature or model selection.</description>
+    <pubDate>Mon, 21 Apr 2025 15:24:18 GMT</pubDate>
+  </item><item>
+    <title>Classification Model</title>
+    <link>https://quartz.jzhao.xyz/portfolio-1/</link>
+    <guid>https://quartz.jzhao.xyz/portfolio-1/</guid>
+    <description>The first example I would like to give is the creation of a classification model using numerical regressors.</description>
+    <pubDate>Mon, 21 Apr 2025 15:24:18 GMT</pubDate>
+  </item><item>
+    <title>3. Modeling</title>
+    <link>https://quartz.jzhao.xyz/portfolio-1/modeling</link>
+    <guid>https://quartz.jzhao.xyz/portfolio-1/modeling</guid>
+    <description>Now we can begin with modeling. We will first see whether predictive modeling is even a viable option.</description>
+    <pubDate>Mon, 21 Apr 2025 15:24:18 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
