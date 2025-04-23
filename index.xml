@@ -27,7 +27,7 @@
     <title>2. Data Exploration</title>
     <link>https://quartz.jzhao.xyz/portfolio-1/data-exploration</link>
     <guid>https://quartz.jzhao.xyz/portfolio-1/data-exploration</guid>
-    <description> Initial examination of data Missing Values Distribution of Independent Variables Associations Between Features The Use of the Mutual Information Coefficient Initial examination of data First, I will look at the number of rows (which are by design, so I actually already know), and the distribution o...</description>
+    <description> Initial Examination of Data Missing Values Distribution of Independent Variables Associations Between Features The Use of the Mutual Information Coefficient Initial Examination of Data First, I will look at the number of rows (which are by design, so I actually already know), and the distribution o...</description>
     <pubDate>Mon, 21 Apr 2025 15:24:18 GMT</pubDate>
   </item><item>
     <title>4. Feature Selection</title>
